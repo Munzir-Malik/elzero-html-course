@@ -22,7 +22,7 @@ It is recommended to attempt each assignment independently before reviewing the 
 ## Progress Tracking
 > Website Assignments
 - [x] Week 01
-- [ ] Week 02
+- [x] Week 02
 - [ ] Week 03
 
 > Video Assignments
